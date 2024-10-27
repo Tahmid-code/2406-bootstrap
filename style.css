@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+ul{
+    list-style-type: none;
+}
+a{
+   text-decoration: none;
+}
+/* navbar */
+nav .container .navbar-brand {
+    color: aqua;
+}
+
+
+
+/* navbar end */
+/* section */
+.sec .row {
+    display: flex;
+    
+}
